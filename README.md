@@ -1,16 +1,45 @@
-## Hi there 👋
+# full-disclosure.eu
 
-<!--
-**full-disclosure/full-disclosure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+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
+=tTQk
+-----END PGP PUBLIC KEY BLOCK-----
+```
